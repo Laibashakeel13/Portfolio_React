@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea77ebe5.css",
+    "main.js": "/static/js/main.b5e00687.js",
+    "static/js/488.9561f9b8.chunk.js": "/static/js/488.9561f9b8.chunk.js",
+    "static/media/ccn.png": "/static/media/ccn.1055e2c7c061f8406c1a.png",
+    "static/media/mvc.png": "/static/media/mvc.6b31929a2321408b4016.png",
+    "static/media/NewsWave.png": "/static/media/NewsWave.713b893e23b874d62bb1.png",
+    "static/media/dictionary.png": "/static/media/dictionary.8d29845f6a26d76392a3.png",
+    "static/media/har.png": "/static/media/har.c815d00a404bb4822478.png",
+    "static/media/aboutpic.jpg": "/static/media/aboutpic.82e197b0ed0acf82504c.jpg",
+    "static/media/laibe.jpg": "/static/media/laibe.ce45e117e042a60967fd.jpg",
+    "static/media/TaskMaster.png": "/static/media/TaskMaster.6c687c57235c9e868483.png",
+    "static/media/logo.png": "/static/media/logo.36e5fa7b3f05b95b0a8f.png",
+    "index.html": "/index.html",
+    "main.ea77ebe5.css.map": "/static/css/main.ea77ebe5.css.map",
+    "main.b5e00687.js.map": "/static/js/main.b5e00687.js.map",
+    "488.9561f9b8.chunk.js.map": "/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea77ebe5.css",
+    "static/js/main.b5e00687.js"
+  ]
+}
